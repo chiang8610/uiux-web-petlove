@@ -1,0 +1,398 @@
+@media only screen and (min-width: 1128px) {
+
+
+    .n_WalkTheDogIMG1{
+      background: url(/images/walkingservice/choice/WalkingServiceChoice_18.jpeg) center ;
+      background-size: cover;
+      width: 900px;
+      height: 450px;
+      margin: 0 auto;
+      margin-top: 150px;
+      border-radius: 10px;
+        
+
+    }
+
+  
+
+    .n_WalkTheDogTitle1{
+     text-align: center;
+     margin-top: 50px;
+     font-size: 50px;
+     font-weight: 300;
+     color: var(--mainblue);
+
+    }
+
+    .n_WalkTheDogSubTitle1 {
+        text-align: center;
+        margin-right: -50px;
+        font-size: 26px;
+        color: var(--mainblue);
+        letter-spacing: 0.8px;
+   
+    }
+    .n_WalkTheDogSubTitle2 {
+        text-align: center;
+        margin-right: -10px;
+        font-size: 12px;
+        color: var(--mainblue);
+        letter-spacing: 0.8px;
+   
+    }
+
+
+    .n_WalkTheDogTitle1_line{
+      width: 50px;
+      height: 1px;
+      margin-top: 65px;
+      background: var(--mainblue);
+      margin-right: 10px;
+    }
+
+    .n_WalkTheDogTitle1WRAP{
+    display: flex;
+    justify-content: center;
+    }
+
+
+    .n_WalkTheDogTitle1_line2{
+    width: 50px;
+    height: 1px;
+    margin-top: 95px;
+    margin-left: 25px;
+    background: var(--mainblue);
+
+    }
+
+    .n_WalkTheDogContent1{
+    width: 900px;
+    margin: 0 auto;
+    letter-spacing: 1.2px;
+    line-height: 1;
+    margin-top: 30px;
+    font-size: 18px;
+    font-weight: 300;
+   
+    }
+
+    .n_WalkTheDogContent2{
+        width: 900px;
+        margin: 0 auto;
+        margin-top: 30px;
+        font-size: 18px;
+        line-height: 1;
+        letter-spacing: 1.2px;
+        font-weight: 300;
+        }
+
+    .n_WalkTheDogNumBox1{
+        width: 300px;
+        height: 150px;
+        background: rgb(255, 255, 255);
+        border-radius: 10px;
+        display: flex;
+        margin-top: 30px;
+      margin-right: 50px;
+        }
+
+        .n_WalkTheDogNumBox1Wrap{
+          display: flex;
+          margin: 0 auto;
+          width: 700px;
+        }
+
+    .n_WalkTheDogNumText1{
+        font-size: 24px;
+        letter-spacing: 0.8px;
+        color: var(--mainblue);
+}
+    .n_WalkTheDogNumText{
+        margin-left: 50px;
+        margin-top: 20px;
+    }
+    .n_WalkTheDogNumText2{
+        
+        font-size: 12px;
+        color: var(--mainblue);
+        letter-spacing: 3px;
+     
+    }
+
+    .n_WalkTheDogNumText3{
+        
+        font-size: 12px;
+        color: var(--mainblue);
+        letter-spacing: 3px;
+        margin-left:15px;
+     
+    }
+    .n_WalkTheDogNumText4{
+        margin-left: 15px;
+        font-size: 24px;
+        margin-top: 20px;
+        
+        letter-spacing: 0.8px;
+        color: var(--mainblue);
+    }
+
+    .n_WalkTheDogNumText4 span{
+        font-size: 14px;
+        letter-spacing: 3px;
+}
+
+    .n_WalkTheDogNumText1 span{
+        font-size: 14px;
+        letter-spacing: 3px;
+}
+
+
+
+   .n_WalkTheDogNumIcon{
+    height: 70px;
+}
+    .walkdog-people{
+        width: 25px;
+        height: 70px;
+        fill: var(--mainyellow);
+        margin-top: 15px;
+        margin-left: 50px;
+    }
+
+    .walkdog-dog{
+    width: 45px;
+    height: 70px;
+    fill: var(--mainyellow);
+    margin-top: 15px;
+    margin-left: 50px;
+}
+
+
+    .n_WalkTheDogNumSet{
+    margin-right: 15px;
+}
+
+    .n_WalkTheDogIntroTitle{
+    font-size: 16px;
+    color: var(--mainblue);
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 3px;
+    width: fit-content;
+    margin-left: 53px;
+   
+}
+
+
+    .n_WalkTheDogIntroText{
+    font-size: 14px;
+    width: fit-content;
+    color: var(--maindarkgray);
+    width: 270px;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 1.2px;
+    margin: 0 auto;
+    margin-top: 10px;
+    
+}
+
+.n_WalkTheDogIntroWrap{
+    margin-top: 50px;
+}
+
+.n_WalkTheDogChargingTitle{
+    font-size: 14px;
+    margin: 0 auto;
+    width: fit-content;
+    color: var(--mainblue);
+}
+
+.n_WalkTheDogChargingIMG{
+    width: 140px;
+    margin: 0 auto;
+
+}
+
+.n_WalkTheDogChargingIMG img{
+width: 100%;
+
+}
+
+.n_WalkTheDogChargingBox{
+    margin-top: 30px;
+
+}
+
+
+.n_WalkTheDogChargingIMG2{
+    width: 140px;
+    margin: 0 auto;
+
+}
+
+.n_WalkTheDogChargingIMG2 img{
+width: 100%;
+
+}
+
+.n_WalkTheDogChargingText{
+    padding-top: 30px;
+    width: 270px;
+    color: var(--maindarkgray);
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: 1.2px;
+    margin: 0 auto;
+}
+
+
+.carousel {
+  background: #EEE;
+}
+
+.carousel-cell {
+  width: 66%;
+  height: 200px;
+  margin-right: 10px;
+  background: #8C8;
+  border-radius: 5px;
+  counter-increment: carousel-cell;
+}
+
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  content: counter(carousel-cell);
+  line-height: 200px;
+  font-size: 80px;
+  color: white;
+}
+
+
+.flickity-button-icon{
+    display: none;
+}
+
+.flickity-button{
+    display: none;
+}
+
+
+.flickity-page-dots .dot{
+    display:none !important;
+}
+.carousel-cell:before{
+    display: none;
+}
+.carousel{
+  
+    margin-top: 30px;
+
+}
+.carousel-cell{
+    background: #fff ;
+}
+
+.carousel-cell_wrap{
+    display: flex;
+}
+
+.star2{
+    width: 10px;
+    height: 10px;
+    fill: var(--mainyellow);
+   
+}
+
+.n_carousel_avatar1{
+    width: 40px;
+    height: 40px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.n_carousel_avatar1 img{
+    width: 100%;
+}
+.n_star2_wrap{
+    height: 30px;
+    margin-left: 10px;
+}
+.n_carousel_name{
+    font-size: 10px;
+   
+    margin-top: 20px;
+}
+.n_carousel_comment{
+    height: 100px;
+    width: 200px;
+    margin-top: 50px;
+    margin-left: 25px;
+    font-size: 12px;
+}
+
+.n_reservationbox{
+    display: flex;
+    width: 270px;
+    height: 140px;
+    background: #fff;
+    border-radius: 10px;
+    margin: 0 auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.walkdog-Reservation-1{
+    width: 60px;
+    margin-left: 30px;
+}
+
+.walkdog-Reservation-2{
+    width: 70px;
+    margin-left: 30px;
+}
+
+.walkdog-Reservation-3{
+    width: 80px;
+    margin-left: 30px;
+}
+.walkdog-Reservation-4{
+    width: 70px;
+    margin-left: 30px;
+}
+
+.walkdog-Reservation-5{
+    width: 70px;
+    margin-left: 30px;
+}
+.walkdog-Reservation-6{
+    width: 80px;
+    margin-left: 30px;
+}
+.n_reservationText{
+    height: 30px;
+    margin: 0 auto;
+    margin-top: 60px;
+    font-size: 14px;
+    letter-spacing: 3px;
+}
+
+
+.n_booking_button{
+   
+    height: 35px;
+    width: 220px;
+    background: var(--mainblue);
+    border-radius: 18px;
+    font-size: 16px;
+    color: #fff;
+    margin: 0 auto;
+    text-align: center;
+    letter-spacing: 3px;
+    line-height: 35px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+
+}
